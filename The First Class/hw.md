@@ -13,3 +13,9 @@ UIScrollView、UITableView、UICollectionView、UIWebView、WkWebView
 
 
 ### 作业3：列举三个UITableViewDelegate声明的方法
+
+1.选中某行cell调用此方法
+
+2.自定义每组头部的view需要使用到UITableViewHeaderFooterView
+
+3.自定义每组尾部的View需要使用到UITableViewHeaderFooterView
